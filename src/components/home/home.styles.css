@@ -1,0 +1,22 @@
+.home-div {
+  font-family: "Oswald";
+  font-weight: 500;
+}
+.headline-div-img {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+}
+.headline-div-img img {
+  position: absolute;
+  width: 100%;
+}
+.headline-article {
+  width: 100%;
+  margin: 0 0 1em 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+}

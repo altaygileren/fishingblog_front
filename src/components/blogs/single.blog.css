@@ -1,0 +1,17 @@
+.single-blog-div {
+  text-align: center;
+  font-family: 'Oswald';
+  font-weight: 600;
+  padding: 0 5rem;
+}
+.single-blog-div h1 {
+  font-weight: 600;
+}
+.single-blog-created-div {
+  color: rgb(108, 108, 108);
+  font-weight: 400;
+}
+.single-blog-content-div {
+  text-align: left;
+  padding-top: 5rem;
+}

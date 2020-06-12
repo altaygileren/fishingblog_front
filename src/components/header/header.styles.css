@@ -1,0 +1,12 @@
+.header-logo {
+  color: white !important;
+  font-family: 'Oswald';
+  font-weight: 600;
+  font-size: 3rem;
+  background-color: red;
+  padding: 0 1rem;
+}
+.navbar-div-style {
+  background-color: black;
+  box-shadow: 0 0.5rem 1rem 0 rgba(44,51,73,.1);
+}

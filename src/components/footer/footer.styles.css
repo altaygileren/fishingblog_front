@@ -1,0 +1,25 @@
+.footer-div {
+  background-color: black;
+  height: 10rem;
+  color: white;
+  margin-top: 5rem;
+  text-align: center;
+  padding-top: 3rem;
+  font-family: "Oswald";
+}
+h4 {
+  /* color: white !important;
+  font-family: "Oswald";
+  font-weight: 600;
+  font-size: 3rem;
+  background-color: red;
+  padding: 0 1rem; */
+}
+h4 span {
+  color: white !important;
+  font-family: "Oswald";
+  font-weight: 600;
+  font-size: 3rem;
+  background-color: red;
+  padding: 0 1rem;
+}
